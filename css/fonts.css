@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'TrumpGothicProBold';
+	src: url('../fonts/TrumpGothicPro-Bold.eot');
+	src: url('../fonts/TrumpGothicPro-Bold.eot#iefix') format('embedded-opentype'),
+		 url('../fonts/TrumpGothicPro-Bold.woff') format('woff'),
+		 url('../fonts/TrumpGothicPro-Bold.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
