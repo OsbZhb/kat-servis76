@@ -2656,7 +2656,7 @@ a.footer-item:hover .text {
 }
 .maps-block iframe{
   height: 380px;
-  width: clamp(21.875rem, 9.716rem + 60.8vw, 55.313rem);
+  /* width: clamp(21.875rem, 9.716rem + 60.8vw, 55.313rem); */
 }
 
 .footer-social {
